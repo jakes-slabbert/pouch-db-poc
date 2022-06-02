@@ -1,0 +1,8 @@
+{
+  "name": "PouchDb_Poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "124e9ba3"
+}
